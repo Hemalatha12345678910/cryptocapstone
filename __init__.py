@@ -1,2 +1,2 @@
-# simulation package
+# honeypot package
 
